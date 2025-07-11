@@ -1,0 +1,52 @@
+#inline {
+    display: inline;
+    color:red;
+    font-family: "roboto", sans-serif;
+    text-align: center;
+}
+p, label {
+    font-family: "roboto", sans-serif;
+    text-align: center;
+    color:white;
+}
+.center {
+    text-align: center;
+}
+.box-1{
+    border:5px solid red;
+}
+h1, h2{
+    font-family: "roboto", sans-serif;
+    text-align: center;
+    color:red;
+}
+.background {
+    background-color: black;
+}
+#form {
+    text-align: center;
+}
+.ul {
+    font-family: "roboto", sans-serif;
+    text-align: center;
+    color:white;
+
+}
+#img {
+    text-align: center;
+}
+#nav {
+    text-align: center;
+    border:8px solid white;
+    border-radius:15px;
+}
+.box-2{
+    border:8px double white;
+    border-radius:15px;
+}
+.box-3{
+    border:8px groove white;
+    border-radius:15px;
+    width: 90% ;
+    align-self:center;
+}
